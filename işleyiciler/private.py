@@ -24,10 +24,10 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Grup 💬", url="https://t.me/adonissprt"
+                        "Grup 💬", url="https://t.me/smailesi"
                     ),
                     InlineKeyboardButton(
-                        "Kanal 📣", url="https://t.me/adonissprt"
+                        "Kanal 📣", url="https://t.me/ucretlibotlar"
                     )
                 ]
             ]
